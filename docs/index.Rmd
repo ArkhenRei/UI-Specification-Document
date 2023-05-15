@@ -118,3 +118,4 @@
 - There is a checkbox on the right side of the text
     - If user fills the check box added user will be enabled.
     - If not then added user will be disabled
+    
